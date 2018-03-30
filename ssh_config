@@ -1,0 +1,28 @@
+Host caen
+	HostName login-course-2fa.engin.umich.edu
+	User xyshen
+
+Host digitalocean
+	Hostname 104.236.190.111
+	User root
+
+Host lasagna
+	Hostname lasagna.eecs.umich.edu
+	User xyshen
+
+Host cannoli
+	Hostname cannoli.eecs.umich.edu
+	User xyshen
+
+Host bigdata
+	Hostname bigdata.eecs.umich.edu
+	User xyshen
+
+Host salat3
+	Hostname salat3.eecs.umich.edu
+	User xyshen
+
+Host approxml
+	Hostname 52.91.90.220
+	User ubuntu
+	IdentityFile ~/.ssh/approxml.pem
